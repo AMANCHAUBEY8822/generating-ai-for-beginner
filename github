@@ -1,0 +1,385 @@
+Navigation Menu
+
+microsoft  / generative-ai-for-beginners
+microsoft /
+generative-ai-for-beginners
+
+ 
+Type / to search
+Search code, repositories, users, issues, pull requests...
+ 
+ 
+
+ Code
+ Issues 7
+ Pull requests 6
+ Discussions
+ Actions
+ Projects
+ Security
+ Insights
+Owner avatar generative-ai-for-beginners Public
+
+Watch530
+Fork 31.9k
+ Starred 62.2k
+ Star 62.2k
+
+Watch530
+
+
+18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+
+ microsoft.github.io/generative-ai-for-beginners/
+License
+ MIT license
+Code of conduct
+ Code of conduct
+Security policy
+ Security policy
+ 62.2k stars  31.9k forks  530 watching 
+Branches
+Tags
+ Activity  Custom properties
+Public repository
+Open in github.dev Open in a new github.dev tab Open in codespace
+microsoft/generative-ai-for-beginners
+
+ main
+56 Branches
+0 Tags
+Go to file
+t
+Go to file
+Add file
+
+Add file
+Add file
+Code
+
+Folders and files
+Name	Name	
+Last commit message
+Last commit date
+Latest commit
+koreyspacekoreyspace
+Merge pull request #586 from kinfey/main
+
+5 hours ago
+4d96f21 · 5 hours ago
+History
+1,200 Commits
+
+.devcontainer
+.devcontainer
+updated requirements.txt
+last month
+.github
+.github
+remove chores/fixes branch
+6 months ago
+.vscode
+.vscode
+update UX section, add more references
+last year
+00-course-setup
+00-course-setup
+Fix#540: Renamed AZURE_OPENAI_KEY to AZURE_OPENAI_API_KEY to use a co…
+3 weeks ago
+01-introduction-to-genai
+01-introduction-to-genai
+fix: cn translation typo
+last month
+02-exploring-and-comparing-different-llms
+02-exploring-and-comparing-different-llms
+fix broken urls
+last month
+03-using-generative-ai-responsibly
+03-using-generative-ai-responsibly
+Merge pull request #529 from Inder24/Adding-OpenAIFile-And-Fixing-Gra…
+2 months ago
+04-prompt-engineering-fundamentals
+04-prompt-engineering-fundamentals
+Merge pull request #590 from bmerkle/fix#589
+2 weeks ago
+05-advanced-prompts
+05-advanced-prompts
+Add zh-tw translations
+3 months ago
+06-text-generation-apps
+06-text-generation-apps
+added the chat appilication lesson
+2 weeks ago
+07-building-chat-applications
+07-building-chat-applications
+added the chat appilication lesson
+2 weeks ago
+08-building-search-applications
+08-building-search-applications
+adding search applications app
+2 weeks ago
+09-building-image-applications
+09-building-image-applications
+Fix#540: Renamed AZURE_OPENAI_KEY to AZURE_OPENAI_API_KEY to use a co…
+3 weeks ago
+10-building-low-code-ai-applications
+10-building-low-code-ai-applications
+fix broken urls
+last month
+11-integrating-with-function-calling
+11-integrating-with-function-calling
+added function calling gh models lesson
+2 weeks ago
+12-designing-ux-for-ai-applications
+12-designing-ux-for-ai-applications
+Add zh-tw translations
+3 months ago
+13-securing-ai-applications
+13-securing-ai-applications
+Add zh-tw translations
+3 months ago
+14-the-generative-ai-application-lifecycle
+14-the-generative-ai-application-lifecycle
+fix typo
+last month
+15-rag-and-vector-databases
+15-rag-and-vector-databases
+Merge pull request #558 from omahs/patch-1
+2 weeks ago
+16-open-source-models
+16-open-source-models
+fix typos
+last month
+17-ai-agents
+17-ai-agents
+Merge pull request #526 from rohis06/main
+2 months ago
+18-fine-tuning
+18-fine-tuning
+Add zh-tw translations
+3 months ago
+19-slm
+19-slm
+Update README.md
+3 weeks ago
+docs
+docs
+Add zh-tw translations
+3 months ago
+images
+images
+Add files via upload
+3 months ago
+presentations
+presentations
+added presentaiton
+10 months ago
+translations
+translations
+Merge pull request #557 from hyoshioka0128/patch-16
+2 weeks ago
+.env.copy
+.env.copy
+refactor setup, ch4, ch18 - for consistency in assignments
+5 months ago
+.gitignore
+.gitignore
+.gitignore should ignore downloaded files of sample 08-building-searc…
+2 months ago
+.nojekyll
+.nojekyll
+fix custom navbar issue
+10 months ago
+CODE_OF_CONDUCT.md
+CODE_OF_CONDUCT.md
+CODE_OF_CONDUCT.md committed
+last year
+CONTRIBUTING.md
+CONTRIBUTING.md
+add tracking to contributing guide
+6 months ago
+LICENSE
+LICENSE
+LICENSE updated to template
+last year
+README.md
+README.md
+Update README.md
+last month
+SECURITY.md
+SECURITY.md
+SECURITY.md committed
+last year
+docsifytopdf.js
+docsifytopdf.js
+Adding more structure and initial readme
+last year
+index.html
+index.html
+feat: language selection
+10 months ago
+package-lock.json
+package-lock.json
+recipe-testjs
+2 weeks ago
+package.json
+package.json
+recipe-testjs
+2 weeks ago
+requirements.txt
+requirements.txt
+updated requirements.txt
+last month
+vs.code-profile
+vs.code-profile
+Initial codespaces support
+last year
+View all files
+Repository files navigation
+README
+Code of conduct
+MIT license
+Security
+
+Generative AI For Beginners
+
+18 Lessons teaching everything you need to know to start building Generative AI applications
+GitHub license GitHub contributors GitHub issues GitHub pull-requests PRs Welcome
+
+GitHub watchers GitHub forks GitHub stars
+
+
+
+Generative AI for Beginners (Version 2) - A Course
+Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates.
+
+🌱 Getting Started
+This course has 18 lessons. Each lesson covers its own topic so start wherever you like!
+
+Lessons are labeled either "Learn" lessons explaining a Generative AI concept or "Build" lessons that explain a concept and code examples in both Python and TypeScript when possible.
+
+Each lesson also includes a "Keep Learning" section with additional learning tools.
+
+What You Need
+
+Access to the Azure OpenAI Service OR OpenAI API OR GitHub Marketplace Model Catalog - Only required to complete coding lessons
+Basic knowledge of Python or TypeScript is helpful - *For absolute beginners check out these Python and TypeScript courses.
+A GitHub account to fork this entire repo to your own GitHub account
+We have created a Course Setup lesson to help you with setting up your development environment.
+
+Don't forget to star (🌟) this repo to find it easier later.
+
+🧠 Ready to Deploy?
+If you are looking for more advanced code samples, check out our collection of Generative AI Code Samples in both Python and TypeScript.
+
+🗣️ Meet Other Learners, Get Support
+Join our official AI Discord server to meet and network with other learners taking this course and get support.
+
+🚀 Building a Startup?
+Sign up for Microsoft for Startups Founders Hub to receive free OpenAI credits and up to $150k towards Azure credits to access OpenAI models through Azure OpenAI Services.
+
+🙏 Want to help?
+Do you have suggestions or found spelling or code errors? Raise an issue or Create a pull request
+
+📂 Each lesson includes:
+A short video introduction to the topic
+A written lesson located in the README
+Python and TypeScript code samples supporting Azure OpenAI and OpenAI API
+Links to extra resources to continue your learning
+🗃️ Lessons
+#	Lesson Link	Description	Video	Extra Learning
+00	Course Setup	Learn: How to Setup Your Development Environment	Coming Soon	Learn More
+01	Introduction to Generative AI and LLMs	Learn: Understanding what Generative AI is and how Large Language Models (LLMs) work.	Video	Learn More
+02	Exploring and comparing different LLMs	Learn: How to select the right model for your use case	Video	Learn More
+03	Using Generative AI Responsibly	Learn: How to build Generative AI Applications responsibly	Video	Learn More
+04	Understanding Prompt Engineering Fundamentals	Learn: Hands-on Prompt Engineering Best Practices	Video	Learn More
+05	Creating Advanced Prompts	Learn: How to apply prompt engineering techniques that improve the outcome of your prompts.	Video	Learn More
+06	Building Text Generation Applications	Build: A text generation app using Azure OpenAI / OpenAI API	Video	Learn More
+07	Building Chat Applications	Build: Techniques for efficiently building and integrating chat applications.	Video	Learn More
+08	Building Search Apps Vector Databases	Build: A search application that uses Embeddings to search for data.	Video	Learn More
+09	Building Image Generation Applications	Build: A image generation application	Video	Learn More
+10	Building Low Code AI Applications	Build: A Generative AI application using Low Code tools	Video	Learn More
+11	Integrating External Applications with Function Calling	Build: What is function calling and its use cases for applications	Video	Learn More
+12	Designing UX for AI Applications	Learn: How to apply UX design principles when developing Generative AI Applications	Video	Learn More
+13	Securing Your Generative AI Applications	Learn: The threats and risks to AI systems and methods to secure these systems.	Video	Learn More
+14	The Generative AI Application Lifecycle	Learn: The tools and metrics to manage the LLM Lifecycle and LLMOps	Video	Learn More
+15	Retrieval Augmented Generation (RAG) and Vector Databases	Build: An application using a RAG Framework to retrieve embeddings from a Vector Databases	Video	Learn More
+16	Open Source Models and Hugging Face	Build: An application using open source models available on Hugging Face	Video	Learn More
+17	AI Agents	Build: An application using an AI Agent Framework	Video	Learn More
+18	Fine-Tuning LLMs	Learn: The what, why and how of fine-tuning LLMs	Video	Learn More
+🌟 Special thanks
+Special thanks to John Aziz for creating all of the GitHub Actions and workflows
+
+🎒 Other Courses
+Our team produces other courses! Check out:
+
+ML for Beginners
+Data Science for Beginners
+AI for Beginners
+NEW Cybersecurity for Beginners
+Web Dev for Beginners
+IoT for Beginners
+XR Development for Beginners
+Mastering GitHub Copilot for AI Paired Programming
+About
+18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+
+ microsoft.github.io/generative-ai-for-beginners/
+Topics
+ai azure transformers openai gpt language-model semantic-search dall-e prompt-engineering llms generative-ai generativeai chatgpt
+Resources
+ Readme
+License
+ MIT license
+Code of conduct
+ Code of conduct
+Security policy
+ Security policy
+ Activity
+ Custom properties
+Stars
+ 62.2k stars
+Watchers
+ 530 watching
+Forks
+ 31.9k forks
+Report repository
+Contributors 92
+@koreyspace
+@john0isaac
+@yoshioterada
+@glaucia86
+@leestott
+@carlotta94c
+@softchris
+@nitya
+@Marcelasabogue
+@abrilurena
+@kinfey
+@bmerkle
+@FacerAin
+@jimbobbennett
++ 78 contributors
+Deployments 240
+ github-pages 5 hours ago
++ 239 deployments
+Languages
+ Jupyter Notebook 85.7%
+ Python 8.7%
+ JavaScript 2.9%
+ TypeScript 1.6%
+ Shell 0.3%
+ PowerShell 0.3%
+ Other 0.5%
+Footer
+ © 2024 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+generative-ai-for-beginners/.github at mai
